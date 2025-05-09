@@ -1,0 +1,8 @@
+az login --service-principal --username  "20c0a1cc-991e-432a-b3fb-d4d3b75aa08e" --password  "Ho38Q~_Qfhy-l8GnUjJzjJB0VBXKt2XN-fjKkdqY" --tenant "f5d7ff48-e4cf-4114-ab5b-1a930c176f9d"
+
+{
+  "appId": "20c0a1cc-991e-432a-b3fb-d4d3b75aa08e",
+  "displayName": "admin",
+  "password": "Ho38Q~_Qfhy-l8GnUjJzjJB0VBXKt2XN-fjKkdqY",
+  "tenant": "f5d7ff48-e4cf-4114-ab5b-1a930c176f9d"
+}
